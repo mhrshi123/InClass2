@@ -1,0 +1,20 @@
+/* Name: Maharshi
+   Student Number: 8980553 
+*/
+
+h2 {
+
+    color: #00b;
+    font-size: 120%;
+}
+
+body {
+
+    margin: auto;           /*These first two properties are NOT part of InClass2 */              
+    border: 2px solid black;              
+
+    font: 16px Arial, sans-serif;
+    background-color: hsla(210, 1%, 38%, 0.3);
+    height: 85vh;
+    width: 85vw;
+}
